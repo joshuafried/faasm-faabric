@@ -1,4 +1,4 @@
-FROM faasm.azurecr.io/faabric-base:0.4.2
+FROM faasm.azurecr.io/faabric-base:0.4.4
 ARG FAABRIC_VERSION
 
 # Flag to say we're in a container
